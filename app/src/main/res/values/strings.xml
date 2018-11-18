@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio7</string>
+    <string-array name ="tipos">
+        <item>El País</item>
+        <item>SlashDat</item>
+        <item>NY Times - Technology</item>
+        <item>Xataka Android</item>
+    </string-array>
+</resources>
